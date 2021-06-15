@@ -10,4 +10,4 @@
 
 |Название|Описание|Навыки|Используемые библиотеки| 
 |:-------|:-------|:-----|:----------------------|
-| [Изучение рынка видеоигр](https://nbviewer.jupyter.org/https:/github/FrantsevMikel/yandex_praktikum_projects/blob/main/%D0%98%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%B8%D0%B3%D1%80/gamedev_pf.ipynb) | Анализ данных для нахождения потенциально успешных видеоигр. | Визуализация данных, исследовательский анализ, проверка статистических гипотез, предобработка данных | *pandas, NumPy, matplotlib, Seaborn, SciPy, urllib, requests* |
+| [Изучение рынка видеоигр](https://nbviewer.jupyter.org/github/FrantsevMikel/yandex_praktikum_projects/blob/main/%D0%98%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%B8%D0%B3%D1%80/gamedev_pf.ipynb) | Анализ данных для нахождения потенциально успешных видеоигр. | Визуализация данных, исследовательский анализ, проверка статистических гипотез, предобработка данных | *pandas, NumPy, matplotlib, Seaborn, SciPy, urllib, requests* |
